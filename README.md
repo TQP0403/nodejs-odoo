@@ -7,4 +7,4 @@ NodeJS server to push notification with
 ## Getting started with Nodejs
 
 > npm install 
-npm run start
+> npm run start
